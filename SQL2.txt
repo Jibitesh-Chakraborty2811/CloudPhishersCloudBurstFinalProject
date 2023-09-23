@@ -1,0 +1,56 @@
+insert into cloudpredict 
+          values("NICOBAR" , -21 , -22 , 72 , -78 , 111, 39 , -26 , -70 , -91 , -75 , 51 , -82 , -20 , 222);
+
+insert into cloudpredict 
+          values("DIMAPUR" , -97 , 290 , 47 , -4 , -35 , -42 , -53 , 169 , -12 , 84 , -36 , -13 , -5 , -89);
+
+insert into cloudpredict
+          values("DARJEELING" , -75 , -3 , 63 , 14 , 4 , -16 , 22 , -36 , -34 , 36 , 42 , -28 , 100 , -89);
+
+insert into cloudpredict
+          values("KOLKATA" , -100 , -46 , -91 , 46 , -75 , -35 , -55 , -61 , 30 , -54 , 3 , -78 , 15 , 84);
+
+insert into cloudpredict
+          values("PURI" , -99 , -46 , -81 , 77 , -93 , -23 , 10 , -34 , 60 , -77 , -23 , -1 , -64 , -22);
+
+insert into cloudpredict
+          values("PATNA" , -98 , -86 , -88 , -79 , 74 , -88 , -73 , -97 , -36 , 19 , -66 , -55 , 43 , -9);
+
+insert into cloudpredict
+          values("KOTA" , -89 , 100 , 26 , 96 , -3 , 78 , 60 , -43 , -6 , -87 , -99 , -54 , -100 , -93);
+
+insert into cloudpredict
+          values("NARMADA" , -39 , -91 , -93 , -73 , 133 , -7 , 28 , -5 , -6 , -89 , -82 , -78 , -97 , -100);
+
+insert into cloudpredict
+          values("PUNE" , -74 , -74 , -91 , 12 , 32 , -41 , 10 , 143 , 5 , -63 , -81 , -50 , -32 , -29);
+
+insert into cloudpredict
+          values("VARANASI" , -91 , -100 , -100 , 79 , 117 , -52 , 6 , -74 , -39 , 56 , -55 , -20 , -54 , -78);
+
+insert into cloudpredict
+          values("AGRA" , -65 , -94 , 460 , 12 , 13 , 7 , -58 , -83 , -63 , -5 , -99 , 39 , -41 , -67);
+
+insert into cloudpredict
+          values("NEW DELHI" , -50 , -96 , -20 , 154 , 37 , 430 , -22 , -50 , -65 , -40 , -97 , -78 , -83 , -100);
+
+insert into cloudpredict
+          values("AMRITSAR" , 511 , -46 , 501 , 343 , 100 , 90 , -86 , 152 , -24 , -49 , -95 , -76 , -13 , -96 );
+
+insert into cloudpredict
+          values("CHENNAI" , -43 , -44 , 1039 , 55 , -78 , -48 , -33 , 23 , -98 , -99 , 264 , 58 , 229 , 6 );
+
+insert into cloudpredict
+          values("MALDA" , -100 , 25 , -85 , -28 , 183 , -46 , -88 , -93 , 8 , 283 , -41 , -17 , -36 , -58);
+
+insert into cloudpredict
+          values("GWALIOR" , -82 , -93 , 90 , -15 , 139 , 48 , -65 , -95 , -53 , 36 , -99 , 28 , -96 , -59);
+
+insert into cloudpredict
+          values("NASIK" , -71 , -85 , -99 , -14 , 100 , 6 , -15 , 49 , 63 , -53 , -56 , -60 , -53 , -91);
+
+insert into cloudpredict
+          values("PALAKKAD" , -86 , -47 , -76 , -62 , -20 , 13 , -69 , 43 , -82 , -88 , -99 , -92 , -90 , -59);
+
+insert into cloudpredict
+          values("NORTH & MIDDLE ANDAMAN" , 11 , 229 , -51 , -47 , 8 , -51 , 22 , 274 , -1 , -61 , 134 , -38 , 244 , 340);
